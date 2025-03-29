@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shraddha Pawar</h1>
 <h3 align="center">Aspiring software engineer 💻 with a passion for coding and problem-solving. Currently pursuing a degree in Computer Science 📚 and exploring the world of open-source projects 🌐.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shraddhapawar6616" alt="shraddhapawar6616" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **shraddhapawar6616@gmail.com**
